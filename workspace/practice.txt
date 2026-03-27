@@ -1,1 +1,1 @@
-"LOCAL CHANGE" 
+"RESOLVED: Combined both changes" 
